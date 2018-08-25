@@ -1,7 +1,5 @@
-# LineageMTool
+# MemoPasswordTool
 
-This is a tool for android games "LineageM".
+This is a tool for people who want to record some password/username in file, but worry if the file will be stolen or be make know to public or not.
 
-By using this tool, you can auto fire some skill that is not included in built-in features.
-
-Following link is the demo I upload to youtube: https://www.youtube.com/watch?v=IGttcK5ZUqg
+I use two passwords for double checking when someone want to open file.
